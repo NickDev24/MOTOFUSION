@@ -1,0 +1,7 @@
+{
+  "name": "Moto Fusion Pro Management",
+  "description": "Comprehensive workshop and spare parts administrative system for Moto Fusion Salta.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
